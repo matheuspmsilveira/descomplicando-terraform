@@ -15,7 +15,7 @@ O repositório inclui várias pastas e recursos, organizados da seguinte forma:
 ### Como Usar Este Repositório
 Sinta-se à vontade para explorar os arquivos e pastas disponíveis aqui.
 
-Se você estiver seguindo o mesmo curso ou apenas quiser aprender mais sobre Kubernetes, este repositório pode ser uma fonte valiosa de informações.
+Se você estiver seguindo o mesmo curso ou apenas quiser aprender mais sobre Terraform, este repositório pode ser uma fonte valiosa de informações.
 
 Se você encontrar algum erro ou tiver sugestões para melhorias em qualquer parte do repositório, não hesite em criar uma issue ou enviar um pull request.
 
@@ -23,7 +23,7 @@ Se você encontrar algum erro ou tiver sugestões para melhorias em qualquer par
 Contribuições são bem-vindas! Se você também está estudando Terraform ou tem conhecimentos para compartilhar, fique à vontade para contribuir com código, correções ou adicionar recursos úteis ao repositório. Basta seguir as diretrizes de contribuição e criar um pull request.
 
 ### Contato
-Se você tiver alguma dúvida, sugestão ou apenas quiser trocar ideias sobre Kubernetes, sinta-se à vontade para entrar em contato comigo. Você pode me encontrar no GitHub, no meu [Linkedin](https://www.linkedin.com/in/matheus-silveira-5500a596/) ou no meu [e-mail](matheuspmsilveira@gmail.com).
+Se você tiver alguma dúvida, sugestão ou apenas quiser trocar ideias sobre Terraform, sinta-se à vontade para entrar em contato comigo. Você pode me encontrar no GitHub, no meu [Linkedin](https://www.linkedin.com/in/matheus-silveira-5500a596/) ou no meu [e-mail](matheuspmsilveira@gmail.com).
 
 Vamos juntos descomplicar o Terraform!
 
