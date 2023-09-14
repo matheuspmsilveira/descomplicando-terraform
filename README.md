@@ -7,12 +7,12 @@ O curso "Descomplicando Terraform" da [LinuxTips](https://www.linuxtips.io/) é 
 ### Objetivo
 O objetivo principal deste repositório é documentar meu progresso e aprendizado durante o curso. Vou compartilhar códigos, scripts, notas e qualquer recurso relevante que possa ser útil para mim e para outros colegas que também estão estudando Terraform.
 
+
 ### Conteúdo
 O repositório inclui várias pastas e recursos, organizados da seguinte forma:
 
 /day-X: Aqui, você encontrará os códigos e scripts relacionados aos exercícios práticos e aulas separado por cada dia de curso.
 
-### Como Usar Este Repositório
 Sinta-se à vontade para explorar os arquivos e pastas disponíveis aqui.
 
 Se você estiver seguindo o mesmo curso ou apenas quiser aprender mais sobre Terraform, este repositório pode ser uma fonte valiosa de informações.
