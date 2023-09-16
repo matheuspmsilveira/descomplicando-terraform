@@ -34,7 +34,7 @@ data "aws_ami" "ubuntu-west" {
 
 resource "aws_instance" "web-west" {
   provider = aws.west
-  ami           = data.aws_ami.ubuntu-west.id
+  ami           = var.image_id # data.aws_ami.ubuntu-west.id
   instance_type = "t2.micro"
 
   tags = {
