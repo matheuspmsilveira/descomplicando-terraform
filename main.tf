@@ -10,6 +10,7 @@ provider "aws" {
 terraform {
   backend "s3" {
     bucket = "descomplicando-terraform-xassala-tfstates"
+    dynamodb_table = "terraform-state-lock-dynamo"
     key    = "terraform-test.tfstate"
     region = "us-east-1"
   }
